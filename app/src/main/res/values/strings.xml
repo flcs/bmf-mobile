@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BMFmobile</string>
+    <string name="codigo">Código</string>
+    <string name="valor">Valor</string>
+    <string name="qtd">Qtd.</string>
+</resources>
